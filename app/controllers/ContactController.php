@@ -1,6 +1,7 @@
 <?php
 
-class Contact extends Controller {
+class ContactController extends Controller {
+
   public function index() {
     echo "Contact";
   }
